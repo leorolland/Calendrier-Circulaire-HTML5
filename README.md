@@ -1,6 +1,9 @@
 # Calendrier Circulaire HTML5
+
 Une autre manière de voir votre calendrier annuel.<br>
 > Il s'agit d'un POC basique, tout est écrit en un script javascript sans dépendances.
+
+Exemple : https://noxunote.fr/calendar/ (Identification en bas à gauche de la page)
 
 ### Présentation
 - Affiche l'année parametrée au format circulaire
